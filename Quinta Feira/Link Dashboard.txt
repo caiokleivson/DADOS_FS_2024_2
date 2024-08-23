@@ -1,0 +1,3 @@
+Link para abrir o Dashboard virtualmente:
+
+https://app.powerbi.com/groups/me/reports/2902f13f-71fe-4450-849a-e06811bd026c/653b0e165fc97e196043?experience=power-bi
