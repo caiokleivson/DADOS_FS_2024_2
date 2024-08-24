@@ -1,0 +1,9 @@
+° Inicialmente podemos observar que a média de idade de todos os alunos da escola é de 16 anos
+
+° O primeiro gráfico é em relação a Quantidade de Estudantes pela sua Etnia, com 1207 Caucasianos, 493 Afro Americanos, 470 Asiáticos e 222 de outra etnia. Totalizando 2.392 alunos
+
+° No segundo gráfico observamos as notas dos alunos baseado em suas etnias, o grupo Caucasiano possui as maiores notas, em seguidas dos Asiáticos, Afro americanos e depois o grupo de outras etnias
+
+° No terceiro gráfico, de pizza, temos a relação das atividades extracurriculares que os alunos fazem, onde Música possui 18,92%, Esportes 29,16%, Trabalho Voluntário 15,1% e no grupo de outras atividades temos 36,83%
+
+° No ultimo gráfico é uma relação do nível de escolaridade dos pais com a quantidade de alunos, onde a maior parte dos pais possuem Nível Técnico, em seguida de Ensino Médio completo, Bacharelado, Nenhum e por ultimo o grupo que possui uma escolaridade maior que Bacharel.
